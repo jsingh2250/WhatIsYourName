@@ -1,0 +1,16 @@
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\bin\Debug\net5.0\WhatIsYourName.exe
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\bin\Debug\net5.0\WhatIsYourName.deps.json
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\bin\Debug\net5.0\WhatIsYourName.runtimeconfig.json
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\bin\Debug\net5.0\WhatIsYourName.runtimeconfig.dev.json
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\bin\Debug\net5.0\WhatIsYourName.dll
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\bin\Debug\net5.0\ref\WhatIsYourName.dll
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\bin\Debug\net5.0\WhatIsYourName.pdb
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\obj\Debug\net5.0\WhatIsYourName.csproj.AssemblyReference.cache
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\obj\Debug\net5.0\WhatIsYourName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\obj\Debug\net5.0\WhatIsYourName.AssemblyInfoInputs.cache
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\obj\Debug\net5.0\WhatIsYourName.AssemblyInfo.cs
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\obj\Debug\net5.0\WhatIsYourName.csproj.CoreCompileInputs.cache
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\obj\Debug\net5.0\WhatIsYourName.dll
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\obj\Debug\net5.0\ref\WhatIsYourName.dll
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\obj\Debug\net5.0\WhatIsYourName.pdb
+C:\Users\jsing\personalProjects\CSharp\WhatIsYourName\obj\Debug\net5.0\WhatIsYourName.genruntimeconfig.cache
